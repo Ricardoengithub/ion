@@ -4,16 +4,16 @@ import "./PagoInfo.css";
 function PagoInfo() {
   return (
     <div className="container-pago-info">
-      <div className="Rectangle-pago-info">
-        <span className="Tu-prximo-pago">Tu próximo pago</span>
+      <div className="pago-container-info">
+        <span className="next-pay">Tu próximo pago</span>
         <span className="pago">$28,860.00</span>
         <div className="fecha-pago">
           <div className="fecha">
             <span className="Fecha-de-pago">Fecha de pago</span>
-            <span className="-Enero">16 Enero</span>
+            <span className="month">16 Enero</span>
           </div>
           <div>
-            <button className="-Background-Copy" onClick={(e) => console.log(e)}>Pagar ahora</button>
+            <button className="pay-now" onClick={(e) => console.log(e)}>Pagar ahora</button>
           </div>
         </div>
         <div className="tdc">

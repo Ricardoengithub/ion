@@ -9,16 +9,16 @@ function Disposicion() {
       </div>
       <div className="disposicion-rect">
         <div className="disposicion-data">
-          <span className="Tienes-disponible">Tienes disponible</span>
+          <span className="tienes-disponible-text">Tienes disponible</span>
           <span className="disponible">$1,499,970.00</span>
         </div>
       </div>
       <div className="auto">
-				<div className='Auto'>
+				<div className='auto-container'>
         	<span className="auto-text">Auto</span>
 
 				</div>
-				<div className='Auto'>
+				<div className='auto-container'>
         	<span className="auto-text">$350,000.00</span>
 				</div>
       </div>

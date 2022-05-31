@@ -13,8 +13,8 @@ function Movimientos() {
   return (
     <div className="movimientos">
       <div className="ver-todos">
-        <span className="Tus-movimientos">Tus movimientos</span>
-        <span className="Ver-todos">Ver todos</span>
+        <span className="tus-movimientos-text">Tus movimientos</span>
+        <span className="todos-text">Ver todos</span>
       </div>
 			{datos.map((item, idx) => <Movimiento key={idx} item={item} />
 			)}

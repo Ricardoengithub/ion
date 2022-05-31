@@ -3,7 +3,7 @@ import "./Pago.css";
 
 function Pago() {
   return (
-    <div className="Rectangle-pago">
+    <div className="pago-container">
       <div className="logo-container">
         <svg
           xmlns="http://www.w3.org/2000/svg"

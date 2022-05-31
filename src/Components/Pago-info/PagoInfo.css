@@ -2,7 +2,7 @@
 	width: 375px;
 }
 
-.Rectangle-pago-info{
+.pago-container-info{
 	position: relative;
   width: 300px;
 	margin: auto;
@@ -24,7 +24,7 @@
 	flex-direction: column;
 }
 
-.Tu-prximo-pago {
+.next-pay {
   width: 123px;
   height: 18px;
   margin: 12px 32px 4px 12px;
@@ -62,7 +62,7 @@
   letter-spacing: normal;
   color: #333;
 }
-.-Enero {
+.month {
   width: 118px;
   height: 18px;
   margin-left: 12px;
@@ -75,7 +75,7 @@
   color: #333;
 }
 
-.-Background-Copy {
+.pay-now {
   width: 120px;
   height: 32px;
 	margin-right: 12px;

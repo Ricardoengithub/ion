@@ -33,7 +33,7 @@
 	flex-direction: column;
 }
 
-.Tienes-disponible {
+.tienes-disponible-text {
 	position: relative;
   width: 120px;
   height: 16px;
@@ -74,7 +74,7 @@
 }
 
 
-.Auto {
+.auto-container {
   font-size: 14px;
   font-weight: 600;
   font-stretch: normal;
