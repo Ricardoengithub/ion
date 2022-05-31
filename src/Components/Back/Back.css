@@ -1,0 +1,21 @@
+.back-container {
+	position: relative;
+	width: 300px;
+	margin: auto;
+	top: 72px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.CANCELAR {
+  width: 75px;
+  height: 20px;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: #22a8d2;
+}

@@ -1,0 +1,96 @@
+.disposicion {
+	position: relative;
+	top: 117px;
+	left: 37px;
+}
+
+.disposicion-rect {
+	position: relative;
+	top: 17px;
+	width: 300px;
+  height: 120px;
+  border-radius: 4px;
+  box-shadow: 0 1px 9px 0 rgba(56, 56, 56, 0.2);
+  background-image: linear-gradient(180deg, #fefefe, white);
+	display: flex;
+	flex-direction: column;
+}
+
+.Disposicin {
+  width: 248px;
+  height: 32px;
+  font-size: 24px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: #333;
+}
+
+.disposicion-data {
+	display: flex;
+	flex-direction: column;
+}
+
+.Tienes-disponible {
+	position: relative;
+  width: 120px;
+  height: 16px;
+	left: 19px;
+	top: 26px;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.14;
+  letter-spacing: normal;
+  color: #333;
+}
+
+.disponible {
+	position: relative;
+  width: 233px;
+  height: 40px;
+	left: 19px;
+	top: 41px;
+  font-size: 34px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.18;
+  letter-spacing: normal;
+  color: #bb64c8;
+}
+
+.auto {
+	position: relative;
+	top: 41px;
+	width: 300px;
+	height: 92px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+
+.Auto {
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #333;
+
+	width: 300px;
+  height: 40px;
+  border-radius: 4px;
+  border: solid 1px #5acaee;
+	display: flex;
+	align-items: center;
+}
+
+.auto-text {
+	margin-left: 18px;
+}

@@ -1,6 +1,5 @@
+import React from 'react';
 import "./Movimientos.css";
-
-
 
 function Movimientos() {
 	const datos = [
@@ -25,11 +24,11 @@ function Movimientos() {
 
 function Movimiento({item}) {
 	console.log(item)
-	const { icon, nombre, desc, tiempo, precio} = item
+	const { icon = '', nombre, desc, tiempo, precio } = item;
 	return (
     <div className="mov">
       <div className="icono">
-        
+        {icon}
       </div>
       <div className="info">
         <div className="datos">
