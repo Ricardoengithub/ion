@@ -1,0 +1,78 @@
+.Rectangle-header {
+  width: 375px;
+  height: 277px;
+  background-color: #0093E9;
+  background-image: linear-gradient(0deg, #22a9d23b -150%, rgb(255, 255, 255) 90%);
+}
+
+.profile-info{
+  position: absolute;
+  top: 73px;
+  left: 40px;
+  width: 300px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.profile {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background-color: #0093E9;
+  background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+}
+
+.Rectangle-saldo {
+  position: relative;
+  width: 300px;
+  margin: auto;
+  top: 118px;
+  height: 86px;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 1px 9px 0 rgba(56, 56, 56, 0.2);
+  background-image: linear-gradient(to bottom, #fefefe, #fefefe);
+  z-index: 10;
+}
+
+.Hola-Jos {
+  width: 75px;
+  height: 22px;
+  font-size: 16px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #333;
+  text-align: center;
+}
+
+.SALDO-DISPONIBLE {
+  width: 134px;
+  height: 15px;
+  margin: 12px 99px 7px 12px;
+  font-size: 12px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: #333;
+}
+
+#saldo {
+  width: 233px;
+  height: 40px;
+  margin-left: 12px;
+  font-size: 34px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.18;
+  letter-spacing: normal;
+  color: #bb64c8;
+}
+

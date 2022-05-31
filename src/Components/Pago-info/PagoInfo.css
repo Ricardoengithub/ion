@@ -1,0 +1,142 @@
+.container-pago-info{
+	width: 375px;
+}
+
+.Rectangle-pago-info{
+	position: relative;
+  width: 300px;
+	margin: auto;
+  height: 186px;
+	display: flex;
+	flex-direction: column;
+  border-radius: 4px;
+  box-shadow: 0 1px 9px 0 rgba(56, 56, 56, 0.2);
+  background-image: linear-gradient(to bottom, #fefefe, #fff);
+}
+.fecha-pago{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 8px;
+}
+
+.fecha{
+	display: flex;
+	flex-direction: column;
+}
+
+.Tu-prximo-pago {
+  width: 123px;
+  height: 18px;
+  margin: 12px 32px 4px 12px;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.14;
+  letter-spacing: normal;
+  color: #333;
+}
+
+.pago {
+  width: 211px;
+  height: 40px;
+	margin-left: 12px;
+  font-size: 28px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #333;
+}
+
+.Fecha-de-pago {
+  width: 97px;
+  height: 18px;
+  margin-left: 12px;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.14;
+  letter-spacing: normal;
+  color: #333;
+}
+.-Enero {
+  width: 118px;
+  height: 18px;
+  margin-left: 12px;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.89;
+  letter-spacing: normal;
+  color: #333;
+}
+
+.-Background-Copy {
+  width: 120px;
+  height: 32px;
+	margin-right: 12px;
+  border-radius: 4px;
+  background-color: #5acaee;
+	border: none;
+	color: white;
+}
+
+.logros {
+	margin-left: 12px;
+}
+
+.Mis-logros {
+  width: 104px;
+  height: 17px;
+	margin-left: 7px;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: #333;
+}
+
+.tdc {
+	margin-top: 12px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.Compras-con-TDC {
+  width: 104px;
+  height: 17px;
+	margin-left: 7px;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: #333;
+}
+
+.numbers-tdc {
+	display: flex;
+	flex-direction: column;
+  justify-content: space-between;
+}
+
+.numbers {
+  width: 105px;
+  height: 17px;
+	margin-right: 12px;
+  font-size: 12px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: right;
+  color: #333;
+}

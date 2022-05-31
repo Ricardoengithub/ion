@@ -1,0 +1,30 @@
+.Rectangle-pago {
+	display: flex;
+	position: absolute;
+  width: 375px;
+  height: 116px;
+	align-items: center;
+	justify-content: space-around;
+	margin: auto;
+	top: 186px;
+  background-color: #783183;
+}
+
+.logo-container{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+
+.actions {
+  height: 11px;
+  font-size: 8px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+	text-align: center;
+  color: white;
+}

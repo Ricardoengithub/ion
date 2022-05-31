@@ -1,0 +1,111 @@
+.movimientos{
+	width: 375px;
+	margin-top: 21px;
+}
+.ver-todos{
+	width: 335px;
+	margin: 0 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.Tus-movimientos {
+  width: 221px;
+  height: 32px;
+  font-size: 24px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: #333;
+}
+
+.Ver-todos {
+  width: 67px;
+  height: 20px;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: #22a8d2;
+}
+
+.mov {
+	width: 335px;
+	display: flex;
+	margin: 12px 20px;
+	justify-content: flex-start;
+}
+
+.icono {
+	width: 40px;
+	border-radius: 15px;
+	border: 1px solid red;
+}
+
+.info {
+	width: 280px;
+	margin-left: 10px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.datos, .tiempos {
+	display: flex;
+	flex-direction: column;
+}
+
+.tiempos {
+	text-align: end;
+}
+
+.desc{
+  width: 91px;
+  height: 20px;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  color: #333;
+}
+
+.name {
+  width: 33px;
+  height: 20px;
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #333;
+}
+
+.precio {
+  width: 80px;
+  height: 20px;
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #333;
+}
+
+.time  {
+  height: 20px;
+  font-size: 12px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  color: #333;
+}
