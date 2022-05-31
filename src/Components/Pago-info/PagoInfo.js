@@ -13,7 +13,7 @@ function PagoInfo() {
             <span class="-Enero">16 Enero</span>
           </div>
           <div>
-            <button className="-Background-Copy">Pagar ahora</button>
+            <button className="-Background-Copy" onClick={(e) => console.log(e)}>Pagar ahora</button>
           </div>
         </div>
         <div className="tdc">

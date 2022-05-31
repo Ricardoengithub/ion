@@ -23,7 +23,7 @@ function Plazo() {
             </div>
           </div>
         </div>
-        <button className="lo-quiero">
+        <button className="lo-quiero" onClick={(e) => console.log(e)}>
           <span className="LO-QUIERO">LO QUIERO</span>
         </button>
       </div>

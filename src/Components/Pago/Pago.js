@@ -10,6 +10,7 @@ function Pago() {
           width="24"
           height="24"
           viewBox="0 0 24 24"
+          onClick={(e) => console.log(e)}
         >
           <g fill="#fff" fill-rule="nonzero">
             <g fill="#fff">
@@ -34,6 +35,7 @@ function Pago() {
           width="24"
           height="24"
           viewBox="0 0 24 24"
+          onClick={(e) => console.log(e)}
         >
           <g fill="#fff" fill-rule="nonzero">
             <g fill="#fff">
@@ -58,6 +60,7 @@ function Pago() {
           width="24"
           height="24"
           viewBox="0 0 24 24"
+          onClick={(e) => console.log(e)}
         >
           <g fill="#fff" fill-rule="nonzero">
             <g fill="#fff">

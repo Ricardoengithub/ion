@@ -30,12 +30,11 @@
 
 
 .circle-wrap {
-  margin: 32px auto;
+  margin: 25px auto;
   width: 200px;
   height: 200px;
   background: #fefcff;
   border-radius: 50%;
-  border: 1px solid #cdcbd0;
 }
 
 .circle-wrap .circle .mask,

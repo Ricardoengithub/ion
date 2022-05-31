@@ -1,6 +1,5 @@
 .App {
 	max-height: 812px;
-	border: 1px solid blue;
 	display: flex;
 	justify-content: space-around;
 }
@@ -8,13 +7,12 @@
 .screen{
 	height: 812px;
 	width: 375px;
-	border: 1px solid red;
 	overflow: hidden;
+	border: 1px solid black;
 }
 
 .disp {
 	position: relative;
-	border: 1px solid green;
 	width: 375px;
 	height: 812px;
   background-color: #0093E9;
