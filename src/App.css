@@ -1,5 +1,6 @@
 .App{
 	max-height: 812px;
+	max-width: 375px;
 	border: 1px solid red;
 	overflow: hidden;
 }

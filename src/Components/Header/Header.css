@@ -6,13 +6,13 @@
 }
 
 .profile-info{
-  position: absolute;
+  position: relative;
   top: 73px;
-  left: 40px;
   width: 300px;
   margin: auto;
   display: flex;
   justify-content: space-between;
+  border: 1px solid red;
 }
 
 .profile {
@@ -27,7 +27,7 @@
   position: relative;
   width: 300px;
   margin: auto;
-  top: 118px;
+  top: 100px;
   height: 86px;
   border-radius: 4px;
   display: flex;

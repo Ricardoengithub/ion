@@ -7,7 +7,7 @@ import Footer from './Components/Footer/Footer';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" style={{marginLeft: '52px'}}>
       <Header/>
       <Pago/>
       <PagoInfo/>
