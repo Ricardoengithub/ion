@@ -3,7 +3,7 @@ import "./Pago.css";
 
 function Pago() {
   return (
-    <div class="Rectangle-pago">
+    <div className="Rectangle-pago">
       <div className="logo-container">
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -12,7 +12,7 @@ function Pago() {
           viewBox="0 0 24 24"
           onClick={(e) => console.log(e)}
         >
-          <g fill="#fff" fill-rule="nonzero">
+          <g fill="#fff" fillRule="nonzero">
             <g fill="#fff">
               <g>
                 <g>
@@ -27,7 +27,7 @@ function Pago() {
             </g>
           </g>
         </svg>
-        <span class="actions">Crear logro</span>
+        <span className="actions">Crear logro</span>
       </div>
       <div className="logo-container">
         <svg
@@ -37,7 +37,7 @@ function Pago() {
           viewBox="0 0 24 24"
           onClick={(e) => console.log(e)}
         >
-          <g fill="#fff" fill-rule="nonzero">
+          <g fill="#fff" fillRule="nonzero">
             <g fill="#fff">
               <g>
                 <g>
@@ -52,7 +52,7 @@ function Pago() {
             </g>
           </g>
         </svg>
-        <span class="actions">Pagar servicio</span>
+        <span className="actions">Pagar servicio</span>
       </div>
       <div className="logo-container">
         <svg
@@ -62,7 +62,7 @@ function Pago() {
           viewBox="0 0 24 24"
           onClick={(e) => console.log(e)}
         >
-          <g fill="#fff" fill-rule="nonzero">
+          <g fill="#fff" fillRule="nonzero">
             <g fill="#fff">
               <g>
                 <g>
@@ -77,7 +77,7 @@ function Pago() {
             </g>
           </g>
         </svg>
-        <span class="actions">Suscripción</span>
+        <span className="actions">Suscripción</span>
       </div>
     </div>
   );

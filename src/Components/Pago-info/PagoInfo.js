@@ -9,8 +9,8 @@ function PagoInfo() {
         <span className="pago">$28,860.00</span>
         <div className="fecha-pago">
           <div className="fecha">
-            <span class="Fecha-de-pago">Fecha de pago</span>
-            <span class="-Enero">16 Enero</span>
+            <span className="Fecha-de-pago">Fecha de pago</span>
+            <span className="-Enero">16 Enero</span>
           </div>
           <div>
             <button className="-Background-Copy" onClick={(e) => console.log(e)}>Pagar ahora</button>
@@ -25,7 +25,7 @@ function PagoInfo() {
                 height="12"
                 viewBox="0 0 24 24"
               >
-                <g fill="#ff0" fill-rule="nonzero">
+                <g fill="#ff0" fillRule="nonzero">
                   <g fill="#ff0">
                     <g>
                       <g>
@@ -40,7 +40,7 @@ function PagoInfo() {
                   </g>
                 </g>
               </svg>
-              <span class="Mis-logros">Mis logros</span>
+              <span className="Mis-logros">Mis logros</span>
             </div>
             <div className="logros">
               <svg
@@ -49,7 +49,7 @@ function PagoInfo() {
                 height="12"
                 viewBox="0 0 24 24"
               >
-                <g fill="#ff0" fill-rule="nonzero">
+                <g fill="#ff0" fillRule="nonzero">
                   <g fill="#ff0">
                     <g>
                       <g>
@@ -64,7 +64,7 @@ function PagoInfo() {
                   </g>
                 </g>
               </svg>
-              <span class="Compras-con-TDC">Compras con TDC</span>
+              <span className="Compras-con-TDC">Compras con TDC</span>
             </div>
           </div>
           <div className="numbers-tdc">

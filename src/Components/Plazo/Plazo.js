@@ -3,23 +3,23 @@ import './Plazo.css'
 
 function Plazo() {
   return (
-    <div class="Plazo">
+    <div className="Plazo">
       <div className="plazo-container">
-        <span class="Selecciona-tu-plazo">Selecciona tu plazo</span>
-        <div class="circle-wrap">
-          <div class="circle">
-            <div class="mask full">
-              <div class="fill"></div>
+        <span className="Selecciona-tu-plazo">Selecciona tu plazo</span>
+        <div className="circle-wrap">
+          <div className="circle">
+            <div className="mask full">
+              <div className="fill"></div>
             </div>
-            <div class="mask half">
-              <div class="fill"></div>
+            <div className="mask half">
+              <div className="fill"></div>
             </div>
-            <div class="inside-circle">
+            <div className="inside-circle">
               {" "}
-              <span class="Tu-pago-mensual">Tu pago mensual</span>
+              <span className="Tu-pago-mensual">Tu pago mensual</span>
               <span className='plazoo'>$12,000.00</span>
-              <span class="a-60-meses">a 60 meses</span>
-              <span class="Tasa-de-inters-166">Tasa de interés 16.6%</span>
+              <span className="a-60-meses">a 60 meses</span>
+              <span className="Tasa-de-inters-166">Tasa de interés 16.6%</span>
             </div>
           </div>
         </div>

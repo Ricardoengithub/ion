@@ -12,7 +12,7 @@ function Back() {
           viewBox="0 0 24 24"
           onClick={(e) => console.log(e)}
         >
-          <g fill="none" fill-rule="evenodd">
+          <g fill="none" fillRule="evenodd">
             <g fill="#222B45">
               <g>
                 <path
@@ -23,7 +23,7 @@ function Back() {
             </g>
           </g>
         </svg>
-        <span class="CANCELAR" onClick={(e) => console.log(e)}>CANCELAR</span>
+        <span className="CANCELAR" onClick={(e) => console.log(e)}>CANCELAR</span>
       </div>
     </div>
   );

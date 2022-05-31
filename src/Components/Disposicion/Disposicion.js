@@ -15,11 +15,11 @@ function Disposicion() {
       </div>
       <div className="auto">
 				<div className='Auto'>
-        	<span class="auto-text">Auto</span>
+        	<span className="auto-text">Auto</span>
 
 				</div>
 				<div className='Auto'>
-        	<span class="auto-text">$350,000.00</span>
+        	<span className="auto-text">$350,000.00</span>
 				</div>
       </div>
     </div>

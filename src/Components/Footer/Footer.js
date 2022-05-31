@@ -12,7 +12,7 @@ function Footer() {
           viewBox="0 0 24 24"
           onClick={(e) => console.log(e)}
         >
-          <g fill="none" fill-rule="evenodd">
+          <g fill="none" fillRule="evenodd">
             <g fill="#1B3C59">
               <g>
                 <g>
@@ -34,7 +34,7 @@ function Footer() {
           viewBox="0 0 24 24"
           onClick={(e) => console.log(e)}
         >
-          <g fill="none" fill-rule="evenodd">
+          <g fill="none" fillRule="evenodd">
             <g fill="#1B3C59">
               <g>
                 <g>
@@ -56,7 +56,7 @@ function Footer() {
           viewBox="0 0 24 24"
           onClick={(e) => console.log(e)}
         >
-          <g fill="none" fill-rule="evenodd">
+          <g fill="none" fillRule="evenodd">
             <g fill="#1B3C59">
               <g>
                 <g>
@@ -79,7 +79,7 @@ function Footer() {
           viewBox="0 0 24 24"
           onClick={(e) => console.log(e)}
         >
-          <g fill="none" fill-rule="evenodd">
+          <g fill="none" fillRule="evenodd">
             <g fill="#1B3C59">
               <g>
                 <g>
@@ -101,7 +101,7 @@ function Footer() {
           viewBox="0 0 24 24"
           onClick={(e) => console.log(e)}
         >
-          <g fill="none" fill-rule="evenodd">
+          <g fill="none" fillRule="evenodd">
             <g fill="#1B3C59">
               <g>
                 <g>

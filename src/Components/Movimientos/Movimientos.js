@@ -16,14 +16,13 @@ function Movimientos() {
         <span className="Tus-movimientos">Tus movimientos</span>
         <span className="Ver-todos">Ver todos</span>
       </div>
-			{datos.map(item => <Movimiento item={item} />
+			{datos.map((item, idx) => <Movimiento key={idx} item={item} />
 			)}
     </div>
   );
 }
 
 function Movimiento({item}) {
-	console.log(item)
 	const { icon = '', nombre, desc, tiempo, precio } = item;
 	return (
     <div className="mov">
